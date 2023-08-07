@@ -1,5 +1,5 @@
 {
-  "name": "sergey-yabloncev/yandex-php-common",
+  "name": "sergey-yabloncev/yandex-market-php-common",
   "description": "Yandex PHP Common is a library that provides base SDK functionality.",
   "keywords":["yandex","sdk"],
   "type":"library",
