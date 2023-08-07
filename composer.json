@@ -1,5 +1,5 @@
 {
-  "name": "nixsolutions/yandex-php-common",
+  "name": "sergey-yabloncev/yandex-php-common",
   "description": "Yandex PHP Common is a library that provides base SDK functionality.",
   "keywords":["yandex","sdk"],
   "type":"library",
@@ -17,6 +17,10 @@
     {
       "name": "Kirill Litvinov",
       "email": "Kirill.Litvinov@nixsolutions.com"
+    },
+    {
+      "name": "Sergey Yablontsev",
+      "email": "sergey@yablontsev.ru"
     }
   ],
   "autoload": {
